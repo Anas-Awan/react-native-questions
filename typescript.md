@@ -1,7 +1,7 @@
 # Typescript Interview Questions & Answers
 
 
-### 1. [Type vs Interface]
+### 1. Type vs Interface
 **Question:** What’s the difference between type and interface?
 **Answer:**
 **Interface:** Best for object contracts, supports declaration merging.
